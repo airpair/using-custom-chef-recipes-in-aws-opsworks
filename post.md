@@ -84,6 +84,6 @@ Give size , subnet , scaling, ssh_key, etc.. and add it to Layer .
 You can see the Website.
 
 
-## Thanks.
+## Thanks..
 
 
