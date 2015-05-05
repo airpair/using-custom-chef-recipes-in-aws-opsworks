@@ -17,7 +17,7 @@ Go to AWS Services console and click on Opsworks.
 
 ### In the Configuration Management Section make “Use custom Chef cookbooks” to “Yes”
 
-![Image1](https://s3-us-west-2.amazonaws.com/ishant/3.png)
+![Image1](https://s3-us-west-2.amazonaws.com/ishant/31.png)
 
 
 In this scenario we have uploaded our cookbooks to S3, Hence Select Repository type to S3 Archive.
@@ -77,7 +77,7 @@ Give size , subnet , scaling, ssh_key, etc.. and add it to Layer .
 
 ### Just take the Public Ip address its showing, copy it and paste it to Browser ‘s Address Bar like below.
 
-![Image1](https://s3-us-west-2.amazonaws.com/ishant/13.png)
+![Image1](https://s3-us-west-2.amazonaws.com/ishant/131.png)
 
 ### Yes ! Web Server (httpd) has been installed and index.html has been copied to /var/www/html/
 
